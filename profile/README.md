@@ -11,15 +11,15 @@
 
 🎯 What You Unlock
 
-    ⏱ Automatic time tracking for apps and websites
+⏱ Automatic time tracking for apps and websites
 
-    📊 Detailed reports and productivity analysis
+📊 Detailed reports and productivity analysis
 
-    🔄 Sync data across devices without cloud login
+🔄 Sync data across devices without cloud login
 
-    🛠 Offline mode with full feature access
+🛠 Offline mode with full feature access
 
-    🔒 No account login or online validation required
+🔒 No account login or online validation required
 
 🖼 Preview
 
